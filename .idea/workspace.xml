@@ -12,11 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
- TerceiraLista
         <entry key="$PROJECT_DIR$" value="main" />
-
-        <entry key="$PROJECT_DIR$" value="AtvAntigas" />
-main
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,10 +88,7 @@ main
         </entry>
       </map>
     </option>
- TerceiraLista
     <option name="oldMeFiltersMigrated" value="true" />
-
- main
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
