@@ -10,10 +10,9 @@ public class Q03 {
         StringBuilder impar = new StringBuilder();
 
         for (int i=0; i < arrayNumeros.length; i++ ){
-            System.out.println("Digite um número: ");
+            System.out.println("Por favor digite um número: ");
             arrayNumeros[i] = sc.nextInt();
         }
-
         for (int arrayNumero : arrayNumeros) {
             if (arrayNumero % 2 == 0) {
                 par.append(arrayNumero).append(" ");
@@ -21,7 +20,6 @@ public class Q03 {
                 impar.append(arrayNumero).append(" ");
             }
         }
-
         System.out.printf("Números Pares = %s, Números Impares = %s", par, impar);
     }
 }
