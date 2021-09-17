@@ -20,6 +20,6 @@ public class Q03 {
                 impar.append(arrayNumero).append(" ");
             }
         }
-        System.out.printf("Números Pares = %s, Números Impares = %s", par, impar);
+        System.out.printf("Números Impares = %s, Números pares = %s", impar, par);
     }
 }
