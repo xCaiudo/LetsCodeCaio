@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1338c2-9ff8-4bdd-93e0-0f6b45de7aaf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/letscode/java/JogoDaVelha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df1338c2-9ff8-4bdd-93e0-0f6b45de7aaf" name="Changes" comment="Jogo da Velha" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1yKTGfJyeOD6E4K7k32CbwFjiaf" />
@@ -141,8 +139,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631999191694</updated>
-      <workItem from="1631999194112" duration="8062000" />
+      <workItem from="1631999194112" duration="8398000" />
     </task>
+    <task id="LOCAL-00001" summary="Jogo da Velha">
+      <created>1632007426216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632007426216</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Jogo da Velha">
+      <created>1632007569451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632007569451</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Jogo da Velha">
+      <created>1632007631237</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632007631237</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jogo da Velha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jogo da Velha" />
   </component>
 </project>

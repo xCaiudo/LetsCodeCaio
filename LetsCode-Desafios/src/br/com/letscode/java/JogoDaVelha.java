@@ -27,9 +27,9 @@ class JogoDaVelha {
         // jogador numero 2
         boolean checaJogador = true;
 
-        //Cria uma variavel para o fim do jogo em um while em loop.
-        boolean gameFim = false;
-        while(!gameFim) {
+        //Cria uma variavel para o fim do jogo dentro de um while
+        boolean finalizaJogo = false;
+        while(!finalizaJogo) {
 
             //Desenha a mesa
             desenhaMesa(mesa);
@@ -84,16 +84,16 @@ class JogoDaVelha {
             //verificador de vitória
             if(jogadorGanhou(mesa) == 'x') {
                 System.out.println(jogador1 + " venceu!");
-                gameFim = true;
+                finalizaJogo = true;
             } else if(jogadorGanhou(mesa) == 'o') {
                 System.out.println(jogador2 + " venceu!");
-                gameFim = true;
+                finalizaJogo = true;
             } else {
 
                 //Verifica se a mesa está cheia, causando um empate.
                 if(mesaCheia(mesa)) {
                     System.out.println("Vish, empatou =0");
-                    gameFim = true;
+                    finalizaJogo = true;
                 } else {
                     //Método de alternar entre jogador1 e jogador2
                     checaJogador = !checaJogador;
