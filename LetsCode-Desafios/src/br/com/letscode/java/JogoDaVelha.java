@@ -27,7 +27,7 @@ class JogoDaVelha {
         // jogador numero 2
         boolean player1 = true;
 
-        //Create a gameEnded boolean and use it as the condition in the while loop
+        //Cria uma variavel para o fim do jogo dentro de um while
         boolean gameFim = false;
         while(!gameFim) {
 
