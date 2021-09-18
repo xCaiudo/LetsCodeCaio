@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+TerceiraLista
+      <module fileurl="file://$PROJECT_DIR$/DesafiosLetsCode.iml" filepath="$PROJECT_DIR$/DesafiosLetsCode.iml" />
+
       <module fileurl="file://$PROJECT_DIR$/LetsCode-Desafios.iml" filepath="$PROJECT_DIR$/LetsCode-Desafios.iml" />
+ main
     </modules>
   </component>
 </project>
