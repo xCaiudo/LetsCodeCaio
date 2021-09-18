@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d78c19d8-289c-4c74-b32c-3156434740f9" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+TerceiraLista
       <change beforePath="$PROJECT_DIR$/LetsCode-TerceiraEntrega/src/br/com/letscode/java/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/LetsCode-TerceiraEntrega/src/br/com/letscode/java/Q01.java" afterDir="false" />
+
+ main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+TerceiraLista
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LetsCode-TerceiraEntrega" />
+
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+main
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="Push.Settings">
@@ -51,7 +58,12 @@
       <option name="presentableId" value="Default" />
       <updated>1631733327632</updated>
       <workItem from="1631733332042" duration="695000" />
+TerceiraLista
       <workItem from="1631750083518" duration="268000" />
+
+      <workItem from="1631735014939" duration="57000" />
+      <workItem from="1631739672068" duration="45000" />
+main
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1631733809037</created>
