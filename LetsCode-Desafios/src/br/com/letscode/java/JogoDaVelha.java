@@ -25,7 +25,7 @@ class JogoDaVelha {
 
         //Variavel player 1 com valor true para sinalizar que é o turno do jogador 1, caso senha falsa é turno do
         // jogador numero 2
-        boolean player1 = true;
+        boolean checaJogador = true;
 
         //Cria uma variavel para o fim do jogo em um while em loop.
         boolean gameFim = false;
@@ -35,7 +35,7 @@ class JogoDaVelha {
             desenhaMesa(mesa);
 
             //Informa de quem é o turno
-            if(player1) {
+            if(checaJogador) {
                 System.out.println("Turno do " + jogador1 + "(x):");
             } else {
                 System.out.println("Turno do "+ jogador2 + "(o):");
@@ -44,7 +44,7 @@ class JogoDaVelha {
             //Create a char variable that stores either 'x' or 'o' based on what player's turn it is
             //cria a variavel que ou é X ou é O baseado no turno do jogador
             char jogadaXO = '-';
-            if(player1) {
+            if(checaJogador) {
                 jogadaXO = 'x';
             } else {
                 jogadaXO = 'o';
@@ -96,7 +96,7 @@ class JogoDaVelha {
                     gameFim = true;
                 } else {
                     //Método de alternar entre jogador1 e jogador2
-                    player1 = !player1;
+                    checaJogador = !checaJogador;
                 }
 
             }
