@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+AtvEmAula
+    <list default="true" id="009396b3-9b50-4e22-b0d5-5dc7683db56d" name="Changes" comment="Jogo da Velha" />
+
     <list default="true" id="df1338c2-9ff8-4bdd-93e0-0f6b45de7aaf" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/br/com/letscode/java/JogoDaVelha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+AtvEmAula
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="LetsCodeDesafios" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1yMeojuEx2cvWuiG8sWApyXf7nI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1yKTGfJyeOD6E4K7k32CbwFjiaf" />
@@ -79,6 +96,7 @@
       </pane>
     </panes>
   </component>
+main
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -87,13 +105,24 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+AtvEmAula
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="JogoDaVelha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.letscode.java.JogoDaVelha" />
+      <module name="LetsCode-Desafios" />
+
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
   </component>
   <component name="RunManager" selected="Application.JogoDaVelha">
     <configuration name="JogoDaVelha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.letscode.java.JogoDaVelha" />
-      <module name="DesafiosLetsCode" />
+ main
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="br.com.letscode.java.*" />
@@ -106,7 +135,11 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="br.com.letscode.java.Main" />
+AtvEmAula
+      <module name="LetsCode-Desafios" />
+
       <module name="DesafiosLetsCode" />
+main
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -114,13 +147,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+AtvEmAula
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LetsCode-Desafios" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LetsCode-Desafios" />
+      <option name="filePath" />
+
+    <configuration name="Main" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+main
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+AtvEmAula
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JogoDaVelha" />
+
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Java Scratch.Main" />
@@ -130,11 +181,31 @@
       <list>
         <item itemvalue="Application.JogoDaVelha" />
         <item itemvalue="Java Scratch.Main" />
+main
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+AtvEmAula
+    <task id="LOCAL-00001" summary="Jogo da Velha">
+      <created>1632009031943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632009031943</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="009396b3-9b50-4e22-b0d5-5dc7683db56d" name="Changes" comment="Jogo da Velha" />
+      <created>1632066086612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632066086612</updated>
+      <workItem from="1632066086612" duration="673000" />
+      <workItem from="1632160889545" duration="505000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+
     <task active="true" id="Default" summary="Default task">
       <changelist id="df1338c2-9ff8-4bdd-93e0-0f6b45de7aaf" name="Changes" comment="" />
       <created>1631999191694</created>
@@ -143,6 +214,7 @@
       <updated>1631999191694</updated>
       <workItem from="1631999194112" duration="8062000" />
     </task>
+main
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,5 +230,13 @@
         </entry>
       </map>
     </option>
+AtvEmAula
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Jogo da Velha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jogo da Velha" />
+
+main
   </component>
 </project>
