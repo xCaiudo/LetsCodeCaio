@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d78c19d8-289c-4c74-b32c-3156434740f9" name="Changes" comment="initial commit">
+LetsCodeDesafios
+      <change afterPath="$PROJECT_DIR$/LetsCode-AtvEmAula/src/br/com/letscode/java/Pessoa.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 AtvEmAula
 
@@ -10,6 +13,7 @@ TerceiraLista
 
  main
  main
+main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +47,9 @@ TerceiraLista
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+LetsCodeDesafios
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LetsCode-Desafios" />
+
 AtvEmAula
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,6 +58,7 @@ TerceiraLista
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LetsCode-TerceiraEntrega" />
 
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+main
 main
 main
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -77,8 +85,12 @@ TerceiraLista
 
       <workItem from="1631735014939" duration="57000" />
       <workItem from="1631739672068" duration="45000" />
+LetsCodeDesafios
+      <workItem from="1632599901363" duration="11000" />
+
 main
 main
+ main
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1631733809037</created>
